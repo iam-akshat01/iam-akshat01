@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshat</h1>
+<h1 align="center">Hi 👋, I'm Akshat Sherr</h1>
 <h3 align="center">Full Stack Developer | Problem Solver | Building Real-World Products</h3>
 
 ---

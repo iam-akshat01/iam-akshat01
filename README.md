@@ -12,14 +12,14 @@
 
 ## About
 
-I'm a Computer Science undergraduate at **NIT Hamirpur**, focused on backend engineering — building services that have to actually talk to each other correctly, not just return JSON. Most of my project work centers on **event-driven architecture**, **message queues**, and **distributed systems fundamentals**, backed by active DSA practice and coursework in system design.
+I'm a B.Tech Computer Science undergraduate at **NIT Hamirpur**, focused on backend engineering — building services that have to actually talk to each other correctly, not just return JSON. Most of my project work centers on **event-driven architecture**, **message queues**, and **distributed systems fundamentals**, backed by active DSA practice (500+ LeetCode, rated on Codeforces) and coursework in system design.
 
 I care about understanding *why* a system is built a certain way — consistency models, failure handling, message delivery guarantees — not just shipping a feature that works on the happy path.
 
 ```text
 Currently building   →  Multi-service video platform (Spring Boot + RabbitMQ + FFmpeg)
 Currently learning    →  Distributed consensus, system design at scale
-Actively practicing   →  DSA / competitive programming
+Actively practicing   →  DSA across LeetCode (500+) and Codeforces
 Open to               →  Backend engineering internships & SDE roles
 ```
 
@@ -117,13 +117,26 @@ Ongoing problem-solving practice across data structures and algorithms, includin
 
 <br/>
 
+## Competitive Programming
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=iamakshat2407&theme=dark)](https://leetcode.com/u/iamakshat2407/)
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=iam_akshat__)](https://codeforces.com/profile/iam_akshat__)
+
+</div>
+
+<br/>
+
 ## Connect
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/YOUR_LEETCODE_HERE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+<a href="mailto:iamak2407@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/akshat-mani-tripathi-81903928b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/iamakshat2407/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/iam_akshat__"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
 
 <br/><br/>
 

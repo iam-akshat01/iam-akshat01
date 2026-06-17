@@ -121,7 +121,7 @@ Ongoing problem-solving practice across data structures and algorithms, includin
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=iamakshat2407&theme=dark)](https://leetcode.com/u/iamakshat2407/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/iamakshat2407?theme=dark)](https://leetcode.com/u/iamakshat2407/)
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=iam_akshat__)](https://codeforces.com/profile/iam_akshat__)
 
